@@ -21,6 +21,7 @@ public class Control {
 		return this.tv;
 	}
 	
+	
 	public void setTv(TV tv) {
 		this.tv = tv;
 	}
